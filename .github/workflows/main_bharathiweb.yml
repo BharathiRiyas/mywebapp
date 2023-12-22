@@ -50,4 +50,4 @@ jobs:
           app-name: 'Bharathiweb'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9288D1929512441F8495C58DCE5DA79A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6FA81F19EBC847BFAC15F6FF0556BD13 }}
